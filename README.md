@@ -6,7 +6,7 @@ Justina Mwango
 ## Student Number
 2024077820
 
-## Program Of Study
+## Program of Study
 Bachelor of Computer Science(pure)
 
 ## Hobbies
