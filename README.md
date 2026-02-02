@@ -1,13 +1,13 @@
 # python-projects
 
 ## Full Name
-Justina mwango
+Justina Mwango
 
 ## Student Number
 2024077820
 
 ## Program Of Study
-Bacchelor of Computer Science(pure)
+Bachelor of Computer Science(pure)
 
 ## Hobbies
 - Watching Anime
