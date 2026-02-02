@@ -1,4 +1,3 @@
-# python-projects
 
 ## Full Name
 Justina Mwango
